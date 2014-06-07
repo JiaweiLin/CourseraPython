@@ -3,3 +3,6 @@ I took this course "An Introduction to Interactive Programming in Python" on Cou
 
 To run each mini project, first copy and paste the python code in each mini project folder to http://www.codeskulptor.org/ <br/>
 Then run the code.
+
+I obtained a Statement of Accomplishment with Distinction.
+https://dl.dropboxusercontent.com/u/13120760/Coursera%20interactivepython%202014.pdf
